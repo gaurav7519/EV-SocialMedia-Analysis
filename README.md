@@ -98,23 +98,7 @@ Explore social media trends to uncover insights that help guide **strategic busi
 
 ---
 
-## 📂 Folder Structure Suggestion
 
-```
-ev-social-analysis/
-│
-├── data/
-│   └── post_data.csv              # Raw or cleaned social media post data
-├── insights/
-│   ├── sentiment_analysis.md     # Sentiment analysis findings
-│   ├── content_strategy.md       # Format/platform insights
-│   └── business_strategy.md      # Market positioning suggestions
-├── charts/
-│   └── engagement_trends.png     # Visualizations and charts
-├── README.md                     # You're here!
-```
-
----
 
 ## 🤝 Contributions
 
