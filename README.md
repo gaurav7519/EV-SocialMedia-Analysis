@@ -109,8 +109,4 @@ Feel free to contribute by:
 
 ---
 
-## 📬 Contact
 
-For queries or collaborations, connect via [LinkedIn](#) or email at `contact@motarev.in`.
-
----
