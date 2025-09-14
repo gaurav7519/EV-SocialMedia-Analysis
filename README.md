@@ -99,14 +99,3 @@ Explore social media trends to uncover insights that help guide **strategic busi
 ---
 
 
-
-## 🤝 Contributions
-
-Feel free to contribute by:
-- Adding new data or platforms
-- Improving visualizations
-- Suggesting strategy refinements
-
----
-
-
